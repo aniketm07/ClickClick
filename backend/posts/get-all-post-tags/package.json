@@ -1,0 +1,14 @@
+{
+  "name": "get-all-post-tags",
+  "version": "1.0.0",
+  "description": "This lambda fetches all the tags related to posts",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1594.0"
+  },
+  "author": "Aniket Mhatre",
+  "license": "ISC"
+}

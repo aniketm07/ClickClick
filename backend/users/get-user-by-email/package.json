@@ -1,0 +1,11 @@
+{
+  "name": "get-user-by-email",
+  "version": "1.0.0",
+  "description": "This gets user by email stored in DynamoDB",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniket Mhatre",
+  "license": "ISC"
+}

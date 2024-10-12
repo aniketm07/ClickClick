@@ -1,0 +1,11 @@
+{
+  "name": "register-user",
+  "version": "1.0.0",
+  "description": "This registers User",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniket Mhatre",
+  "license": "ISC"
+}

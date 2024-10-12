@@ -1,0 +1,13 @@
+FROM --platform=linux/arm64 node
+
+WORKDIR /app
+
+COPY . .
+
+RUN npm install
+
+RUN npm run build
+
+EXPOSE 3000
+
+CMD ["npm", "run", "preview"]

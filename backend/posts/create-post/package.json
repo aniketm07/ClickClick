@@ -1,0 +1,14 @@
+{
+  "name": "create-post",
+  "version": "1.0.0",
+  "description": "This will add a new post, detect tags of the image using AWS Rekognition, and sends email notifications to the subscribed users.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1594.0"
+  },
+  "author": "Aniket Mhatre",
+  "license": "ISC"
+}
