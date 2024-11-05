@@ -33,7 +33,7 @@ ClickClick offers a range of features designed to provide a seamless user experi
 
 ## Demo
 
-![Demo Of ClickClick](https://drive.google.com/file/d/1_dTFPJpqjc1OpjaQ9dugKQzxeVDpNp-7/view?usp=sharing)
+[Demo Of ClickClick](https://drive.google.com/file/d/1_dTFPJpqjc1OpjaQ9dugKQzxeVDpNp-7/view?usp=sharing)
 
 ## AWS Services Used
 
