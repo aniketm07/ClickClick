@@ -14,6 +14,9 @@ ClickClick is an online photo-sharing platform designed to streamline the proces
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
+## Demo
+
+[Demo Of ClickClick](https://drive.google.com/file/d/1_dTFPJpqjc1OpjaQ9dugKQzxeVDpNp-7/view?usp=sharing)
 
 ## Project Overview
 
@@ -30,10 +33,6 @@ ClickClick offers a range of features designed to provide a seamless user experi
 ## Architecture Diagram
 
 ![View Architecture Diagram](https://clickclick-project.s3.amazonaws.com/Arch.png)
-
-## Demo
-
-[Demo Of ClickClick](https://drive.google.com/file/d/1_dTFPJpqjc1OpjaQ9dugKQzxeVDpNp-7/view?usp=sharing)
 
 ## AWS Services Used
 
